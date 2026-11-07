@@ -9,7 +9,7 @@ def sub(a,b):
 
 
 
-result_sum = add(4 7)
+result_sum = add(4, 7)
 
 diff = sub(3, 1)
 
